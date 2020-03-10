@@ -34,5 +34,8 @@
     <None Include="VertexShader.shader">
       <Filter>Archivos de origen</Filter>
     </None>
+    <None Include="FragmentShader.shader">
+      <Filter>Archivos de origen</Filter>
+    </None>
   </ItemGroup>
 </Project>
